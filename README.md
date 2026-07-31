@@ -325,7 +325,7 @@ If you'd like to improve this project:
 
 # 👨‍💻 Author
 
-**Anuj Yadav**
+**Anuj Kumar**
 
 💻 Passionate about Machine Learning, Deep Learning, NLP, and MLOps.
 
